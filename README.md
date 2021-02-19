@@ -6,10 +6,10 @@ react-typescript clone app
 
 ## Screens
 
-- [] Home
-- [] TV Shows
-- [] Search
-- [] Detail
+- [ ] Home
+- [ ] TV Shows
+- [ ] Search
+- [ ] Detail
 
 <br>
 
