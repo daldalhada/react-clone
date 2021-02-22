@@ -11,6 +11,17 @@ react-typescript clone app
 - [ ] Search
 - [ ] Detail
 
+## API Verbs
+
+- [ ] Now playing (Movie)
+- [ ] Top Rated (TV)
+- [ ] Popular (TV)
+- [ ] Upcoming(Movie)
+- [ ] Airing Today(TV)
+- [ ] TV Show Detail
+- [ ] Movie Detail
+- [ ] Search (Movies, TV)
+
 <br>
 
 ### 1. Fundamentals
@@ -21,3 +32,7 @@ react-typescript clone app
 ### 2. Project Setup
 
 - [2-1. Project Setup](https://github.com/daldalhada/react-clone/blob/main/description/2/2-1.md)
+
+### 3. Networking
+
+- [3-1. API](https://github.com/daldalhada/react-clone/blob/main/description/3/3-1.md)
